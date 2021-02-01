@@ -16,7 +16,7 @@
       "item": "minecraft:iron_ingot"
     },
     "n": {
-      "item": "minecraft:netherite_scrap"
+      "item": "minecraft:nether_brick"
     }
   },
   "smeltTime" : 600,
